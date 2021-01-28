@@ -34,7 +34,7 @@
         "express-session": "^1.15.6",
         "jsonwebtoken": "^8.5.1",
         "moment": "^2.24.0",
-        "neode": "^0.2.3"
+        "neode": "^0.4.6"
     },
     "devDependencies": {
         "eslint": "^4.8.0"
